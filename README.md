@@ -60,8 +60,7 @@ i)HALF ADDER
 
 ii)HALF SUBTRACTOR
 
-<img width="416" alt="Screenshot 2024-11-29 at 7 10 25 PM" src="https://github.com/user-attachments/assets/bbb8e787-24d3-4faf-bba6-797269f24ab5">
-
+<img width="275" alt="Screenshot 2024-11-29 at 7 15 15 PM" src="https://github.com/user-attachments/assets/cff7abb3-cb79-4950-8c51-9b6cbef56a4c">
 
 
 
@@ -72,7 +71,7 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 <img width="1449" alt="Screenshot 2024-11-29 at 7 01 01 PM" src="https://github.com/user-attachments/assets/6f539de6-bea9-4fca-8dfd-03add967a55a">
-<img width="1458" alt="Screenshot 2024-11-29 at 7 01 43 PM" src="https://github.com/user-attachments/assets/ff896315-0f8a-4cd7-b41e-e57991683cdc">
+<img width="1470" alt="Screenshot 2024-11-29 at 7 14 46 PM" src="https://github.com/user-attachments/assets/cb9f618c-7866-4d75-80a8-f42080a8fb90">
 
 **Output/TIMING Waveform**
 
