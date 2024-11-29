@@ -78,12 +78,21 @@ ii)HALF SUBTRACTOR
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+
+HALF ADDER
+
 <img width="1449" alt="Screenshot 2024-11-29 at 7 01 01 PM" src="https://github.com/user-attachments/assets/6f539de6-bea9-4fca-8dfd-03add967a55a">
+HALF SUBTRACTOR
+
 <img width="1470" alt="Screenshot 2024-11-29 at 7 14 46 PM" src="https://github.com/user-attachments/assets/cb9f618c-7866-4d75-80a8-f42080a8fb90">
 
 **Output/TIMING Waveform**
 
+HALF ADDER
+
 <img width="1464" alt="Screenshot 2024-11-29 at 11 03 36 PM" src="https://github.com/user-attachments/assets/431b377f-a53a-4554-9d7a-419cd4039a56">
+
+HALF SUBTRACTOR
 
 <img width="1466" alt="Screenshot 2024-11-29 at 11 07 30 PM" src="https://github.com/user-attachments/assets/eebb3469-ebe1-4a41-b7ef-0b0fc2c4d978">
 
