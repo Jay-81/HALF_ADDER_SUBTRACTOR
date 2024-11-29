@@ -52,33 +52,17 @@ Figure -02 HALF Subtractor
 
 i)HALF ADDER
 
-module ex3(a,b,sum,carry);
+<img width="218" alt="Screenshot 2024-11-29 at 7 09 32 PM" src="https://github.com/user-attachments/assets/c5843050-9b4c-4d1e-abd6-4ef29484bbd1">
 
-input a,b;
 
-output sum,carry;
-
-assign sum= (a ^ b);
-
-assign carry= ( a & b);
-
-endmodule
 
 
 
 ii)HALF SUBTRACTOR
 
-module ex3b(a,b,bin,difference,borrow);
+<img width="416" alt="Screenshot 2024-11-29 at 7 10 25 PM" src="https://github.com/user-attachments/assets/bbb8e787-24d3-4faf-bba6-797269f24ab5">
 
-input a,b,bin;
 
-output difference,borrow;
-
-assign difference= ( (a ^ b)^bin);
-
-assign borrow= ( ( ~a & b)| ( bin & (~(a ^ b ))));
-
-endmodule
 
 
 
