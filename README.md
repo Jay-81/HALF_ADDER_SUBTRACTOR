@@ -81,7 +81,8 @@ Developed by: RegisterNumber:*/
 
 HALF ADDER
 
-<img width="1449" alt="Screenshot 2024-11-29 at 7 01 01 PM" src="https://github.com/user-attachments/assets/6f539de6-bea9-4fca-8dfd-03add967a55a">
+<img width="1470" alt="Screenshot 2024-11-29 at 11 12 14 PM" src="https://github.com/user-attachments/assets/0b8371c2-9719-41ac-b52d-95efe74d8302">
+
 HALF SUBTRACTOR
 
 <img width="1470" alt="Screenshot 2024-11-29 at 7 14 46 PM" src="https://github.com/user-attachments/assets/cb9f618c-7866-4d75-80a8-f42080a8fb90">
