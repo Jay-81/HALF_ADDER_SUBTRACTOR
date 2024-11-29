@@ -83,4 +83,8 @@ Developed by: RegisterNumber:*/
 
 **Output/TIMING Waveform**
 
+<img width="1464" alt="Screenshot 2024-11-29 at 11 03 36 PM" src="https://github.com/user-attachments/assets/431b377f-a53a-4554-9d7a-419cd4039a56">
+
+<img width="1466" alt="Screenshot 2024-11-29 at 11 07 30 PM" src="https://github.com/user-attachments/assets/eebb3469-ebe1-4a41-b7ef-0b0fc2c4d978">
+
 **Result:**
