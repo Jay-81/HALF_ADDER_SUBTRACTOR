@@ -55,12 +55,20 @@ ii)HALF SUBTRACTOR
 
 5.	For different input combinations generate the timing diagram.
 
-
 **Program:**
+```
 
 i)HALF ADDER
 
-<img width="218" alt="Screenshot 2024-11-29 at 7 09 32 PM" src="https://github.com/user-attachments/assets/c5843050-9b4c-4d1e-abd6-4ef29484bbd1">
+module ha(a,b,sum,carry);
+
+input a,b;
+
+output sum,carry;
+
+assign sum= (a ^ b);
+
+assign carry
 
 
 
@@ -68,7 +76,18 @@ i)HALF ADDER
 
 ii)HALF SUBTRACTOR
 
-<img width="275" alt="Screenshot 2024-11-29 at 7 15 15 PM" src="https://github.com/user-attachments/assets/cff7abb3-cb79-4950-8c51-9b6cbef56a4c">
+module hs(a,b,difference,borrow);
+
+input a,b;
+
+output difference,borrow;
+
+assign difference= (a ^ b);
+
+assign borrow= ( ~a & b);
+
+endmodule
+
 
 
 
@@ -78,7 +97,7 @@ ii)HALF SUBTRACTOR
 Developed by: V.Patrick Alex Emmanuel
 
 RegisterNumber: 24900019
-
+```
 **RTL Schematic**
 
 HALF ADDER
