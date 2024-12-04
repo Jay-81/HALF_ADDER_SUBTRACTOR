@@ -119,3 +119,4 @@ HALF SUBTRACTOR
 <img width="1466" alt="Screenshot 2024-11-29 at 11 07 30 PM" src="https://github.com/user-attachments/assets/eebb3469-ebe1-4a41-b7ef-0b0fc2c4d978">
 
 **Result:**
+Thus the Output's of encoder and decoder are verified by synthesizing and simulating the VERILOG code.
