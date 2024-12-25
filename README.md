@@ -1,4 +1,5 @@
-# HALF_ADDER_SUBTRACTOR
+# EXP 3 : HALF_ADDER_SUBTRACTOR
+# DATE: 10th Oct 2024
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -52,10 +53,47 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by: JAYANI K
+RegisterNumber: 24005008 */
+~~~
+(i) Half Adder
+
+module ha(a,b,sum,carry);
+input a,b;
+output sum,carry;
+assign sum= (a ^ b);
+assign carry
+
+(ii) Half Subtractor
+
+module hs(a,b,difference,borrow);
+input a,b;
+output difference,borrow;
+assign difference= (a ^ b);
+assign borrow= ( ~a & b);
+endmodule
+~~~
 
 **RTL Schematic**
 
+HALF ADDER
+
+![image](https://github.com/user-attachments/assets/a5889669-b7e1-4c96-aaf3-faf851d96887)
+
+HALF SUBTRACTOR
+
+![image](https://github.com/user-attachments/assets/dc4711cd-118c-46f1-bac4-482f04c45799)
+
 **Output/TIMING Waveform**
 
+HALF ADDER
+
+![image](https://github.com/user-attachments/assets/51b64ff2-cbc7-45c4-ab4a-bf2d92ca7a9b)
+
+HALF SUBTRACTOR
+
+![image](https://github.com/user-attachments/assets/8952527b-f78a-4630-89c8-3d9cd1f8d5cb)
+
 **Result:**
+Thus the OUTPUT's of Encoder and Decoder are verified by synthesizing and
+simulating the VERILOG code.
